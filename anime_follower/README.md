@@ -1,0 +1,1 @@
+A simple script for adding RSS rules to qBittorrent to follow seasonal anime releases
